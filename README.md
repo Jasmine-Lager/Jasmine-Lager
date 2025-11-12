@@ -1,3 +1,14 @@
-## Hi there 👋
+# Hi there 👋 I'm Jasmine
 
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/jlager?1337Badge=off&UM6P=off" alt="jlager's 42 stats" /></a>
+**Student at [42 Prague](https://42prague.com/)** 🇨🇿
+
+I am navigating the peer-to-peer curriculum, diving deep into low-level algorithms, system administration, and software architecture ✨
+
+### 🛠️ Currently working with:
+* **Languages:** C, Shell, starting with C++
+* **Tools:** Git, Vim, Valgrind, Docker
+* **OS:** mainly Linux/MAC
+* **Projects:** just finished MINISHELL and PHILOSOPHERS, about to dive into C++ modules 👀
+
+> "CODE TOGETHER" 🚀
+
