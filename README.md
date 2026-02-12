@@ -12,3 +12,4 @@ I am navigating the peer-to-peer curriculum, diving deep into low-level algorith
 
 > "CODE TOGETHER" 🚀
 
+[![jlager's 42 stats](https://badge.mediaplus.ma/darkblue/jlager?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
