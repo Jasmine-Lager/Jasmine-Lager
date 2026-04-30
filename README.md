@@ -6,9 +6,9 @@ I am navigating the peer-to-peer curriculum, diving deep into low-level algorith
 
 ### 🛠️ Currently working with:
 * **Languages:** C, Shell, starting with C++
-* **Tools:** Git, VS Code, Valgrind, Docker
+* **Tools:** Git, VS Code, Valgrind, Docker, Network Configuration
 * **OS:** mainly Linux/MAC
-* **Projects:** starting C++ modules, NetPractice and cub3d 👀
+* **Current Projects:** C++ modules
 
 > "CODE TOGETHER" 🚀
 
