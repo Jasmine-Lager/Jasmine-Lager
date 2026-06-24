@@ -5,10 +5,10 @@
 I am navigating the peer-to-peer curriculum, diving deep into low-level algorithms, system administration, and software architecture ✨
 
 ### 🛠️ Currently working with:
-* **Languages:** C, Shell, starting with C++
+* **Languages:** C, Shell, C++
 * **Tools:** Git, VS Code, Valgrind, Docker, Network Configuration
-* **OS:** mainly Linux/MAC
-* **Current Projects:** C++ modules
+* **OS:** Linux, MAC
+* **Current Projects:** C++ modules, webserv, Inception
 
 > "CODE TOGETHER" 🚀
 
